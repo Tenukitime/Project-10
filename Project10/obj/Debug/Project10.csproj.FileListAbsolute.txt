@@ -1,0 +1,6 @@
+C:\Users\Kyle\Documents\CS1400\Project10\Project10\bin\Debug\Project10.exe.config
+C:\Users\Kyle\Documents\CS1400\Project10\Project10\bin\Debug\Project10.exe
+C:\Users\Kyle\Documents\CS1400\Project10\Project10\bin\Debug\Project10.pdb
+C:\Users\Kyle\Documents\CS1400\Project10\Project10\obj\Debug\Project10.csprojResolveAssemblyReference.cache
+C:\Users\Kyle\Documents\CS1400\Project10\Project10\obj\Debug\Project10.exe
+C:\Users\Kyle\Documents\CS1400\Project10\Project10\obj\Debug\Project10.pdb
